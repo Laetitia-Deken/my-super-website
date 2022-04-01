@@ -1,2 +1,2 @@
-# my-super-website - Quête d'entraînement Wild Code School
-Quête 3 GitHub Wild Code School
+# my-super-website - Training Quest GitHub Wild Code School
+Quest 3 GitHub Wild Code School
